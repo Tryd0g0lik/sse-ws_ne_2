@@ -9,4 +9,7 @@ const db = require('db/index.js');
 const app = new Koa();
 const server = http.createServer(app.callback);
 const wss = new WS.Server({ server });
-
+let newClient = {};
+let postmane: any;
+let url: string = '';
+/* ddddddddd*/
