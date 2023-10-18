@@ -10,5 +10,5 @@ src.v0/
 
 **/serve.js
 **/db/index.js
-**/frontend
+frontend
 backend
