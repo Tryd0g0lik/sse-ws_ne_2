@@ -12,6 +12,3 @@ const wss = new WS.Server({ server });
 let newClient = {};
 let postmane: any;
 let url: string = '';
-console.log('[DB-file]: ', db);
-console.log('[DB-object]: ', Object(db))
-console.log('[DB-object]: ', Object.keys(db))
