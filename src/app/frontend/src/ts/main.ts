@@ -14,3 +14,4 @@ document.addEventListener('DOMContentLoaded', () => {
 	addLogin(body);
 
 });
+// E:\Netologe\NetologeJavaScript3\sse-ws_ne_2\src\app\frontend\src\ts\main.ts
